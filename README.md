@@ -31,7 +31,14 @@ In the visualization you can see that many managers at Dental Magic have employe
 - Race is split into 6 categories within the oranization. This seems to be the least dispersed diversity measure. There are significantly more 'White' employees within the organization than Non-White.
 
 ![](images/race.png)
+![](images/hispanic.png)
+
+**4. What are our best recruiting sources if we want to ensure a diverse organization?**
+1. One of the top 3 recruiting sources are from a diversity job fair so this is one way you can ensure for future diversity.
+
+![](images/source_count.png)
 
 
-3. What are our best recruiting sources if we want to ensure a diverse organization?
-4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
+
+
+**5. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?**
