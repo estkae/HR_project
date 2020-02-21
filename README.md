@@ -41,7 +41,7 @@ One of the top 3 recruiting sources are from a diversity job fair so this is one
 
 **5. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?**
 
-Yes, we can use logistic regression in order to predict if the employee will be terminated. In our jupyter notebook you will see that we categorized the data to be 1-employed or 0-terminated.
+Yes, we can use logistic regression in order to predict if the employee will be terminated. In our Jupyter notebook you will see that we categorized the data to be 1-employed or 0-terminated.
 
 We fit a logistic regression model using Scikit-Learn.
 
