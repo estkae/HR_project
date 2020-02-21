@@ -28,7 +28,7 @@ In the visualization you can see that many managers at Dental Magic have employe
 
 ![](images/male_pay.png)
 
-- Race is split into 6 categories within the oranization. This seems to be the least dispersed diversity measure. There are significantly more 'White' employees within the organization than non-White.
+- Race is split into 6 categories within the oranization. This seems to be the least dispersed diversity measure. There are significantly more 'White' employees within the organization than Non-White.
 
 ![](images/race.png)
 
