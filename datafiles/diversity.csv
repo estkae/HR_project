@@ -1,0 +1,302 @@
+Employee Name,Age,Sex,MaritalDesc,CitizenDesc,Hispanic/Latino,RaceDesc,Employment Status,Department,Pay Rate,emp_source
+"Brown, Mia",32,Female,Married,US Citizen,No,Black or African American,Active,Admin Offices,28.5,Diversity Job Fair
+"LaRotonda, William  ",33,Male,Divorced,US Citizen,No,Black or African American,Active,Admin Offices,23,Website Banner Ads
+"Steans, Tyrone  ",31,Male,Single,US Citizen,No,White,Active,Admin Offices,29,Internet Search
+"Howard, Estelle",32,Female,Married,US Citizen,No,White,Active,Admin Offices,21.5,Pay Per Click - Google
+"Singh, Nan ",29,Female,Single,US Citizen,No,White,Active,Admin Offices,16.56,Website Banner Ads
+"Smith, Leigh Ann",30,Female,Married,US Citizen,No,Asian,Voluntarily Terminated,Admin Offices,20.5,Diversity Job Fair
+"LeBlanc, Brandon  R",33,Male,Married,US Citizen,No,White,Active,Admin Offices,55,Monster.com
+"Quinn, Sean",33,Male,Married,Eligible NonCitizen,No,Black or African American,Voluntarily Terminated,Admin Offices,55,Diversity Job Fair
+"Boutwell, Bonalyn",30,Female,Married,US Citizen,No,Asian,Active,Admin Offices,34.95,Diversity Job Fair
+"Foster-Baker, Amy",38,Female,Married,US Citizen,no,White,Active,Admin Offices,34.95,Other
+"King, Janet",63,Female,Married,US Citizen,Yes,White,Active,Executive Office,80,Pay Per Click - Google
+"Zamora, Jennifer",38,Female,Single,US Citizen,No,White,Active,IT/IS,65,Employee Referral
+"Becker, Renee",31,Female,Single,US Citizen,Yes,White,Terminated for Cause,IT/IS,43,Search Engine - Google Bing Yahoo
+"Goble, Taisha",46,Female,Single,US Citizen,No,White,Terminated for Cause,IT/IS,48.5,Glassdoor
+"Hernandez, Daniff",31,Male,Married,US Citizen,No,Black or African American,Terminated for Cause,IT/IS,40.1,Employee Referral
+"Horton, Jayne",33,Female,Single,US Citizen,No,White,Active,IT/IS,34,Glassdoor
+"Johnson, Noelle ",31,Female,Married,US Citizen,No,Asian,Leave of Absence,IT/IS,40,Glassdoor
+"Murray, Thomas",29,Male,Divorced,US Citizen,No,Black or African American,Active,IT/IS,35.5,Diversity Job Fair
+"Pearson, Randall",33,Male,Married,US Citizen,No,White,Voluntarily Terminated,IT/IS,41,Employee Referral
+"Petrowsky, Thelma",33,Female,Married,US Citizen,No,Asian,Active,IT/IS,42.75,Employee Referral
+"Roby, Lori ",36,Female,Married,US Citizen,No,White,Active,IT/IS,39.55,Employee Referral
+"Rogers, Ivan",31,Male,Married,US Citizen,No,White,Active,IT/IS,42.2,Pay Per Click - Google
+"Salter, Jason",30,Male,Divorced,US Citizen,No,Black or African American,Voluntarily Terminated,IT/IS,45,Vendor Referral
+"Simard, Kramer",47,Male,Married,US Citizen,Yes,White,Active,IT/IS,30.2,Employee Referral
+"Zhou, Julia",38,Female,Single,US Citizen,No,White,Active,IT/IS,31.4,Employee Referral
+"Foss, Jason",37,Male,Single,US Citizen,No,Black or African American,Active,IT/IS,65,Professional Society
+"Roup,Simon",44,Male,Single,US Citizen,No,White,Active,IT/IS,62,Professional Society
+"Ruiz, Ricardo",54,Male,Divorced,US Citizen,No,Two or more races,Voluntarily Terminated,IT/IS,21,Diversity Job Fair
+"Monroe, Peter",31,Male,Married,Eligible NonCitizen,Yes,Hispanic,Active,IT/IS,63,Diversity Job Fair
+"Dougall, Eric",47,Male,Single,US Citizen,No,White,Active,IT/IS,64,Professional Society
+"Clayton, Rick",32,Male,Single,US Citizen,No,White,Active,IT/IS,28.99,Glassdoor
+"Galia, Lisa",49,Female,Single,US Citizen,No,White,Active,IT/IS,31.4,Vendor Referral
+"Lindsay, Leonara ",29,Female,Single,US Citizen,Yes,Two or more races,Active,IT/IS,26,Diversity Job Fair
+"Soto, Julia ",44,Female,Married,US Citizen,No,Black or African American,Active,IT/IS,27.49,Information Session
+"Bacong, Alejandro ",30,Male,Divorced,US Citizen,No,White,Active,IT/IS,45,Glassdoor
+"Cisco, Anthony",28,Male,Married,US Citizen,Yes,White,Active,IT/IS,42,Information Session
+"Dolan, Linda",29,Female,Married,US Citizen,No,White,Active,IT/IS,37,Employee Referral
+"Gonzalez, Maria",36,Female,Separated,US Citizen,Yes,White,Active,IT/IS,39,Employee Referral
+"Merlos, Carlos",30,Male,Single,US Citizen,No,White,Active,IT/IS,43,Vendor Referral
+"Morway, Tanya",38,Female,Married,US Citizen,No,White,Active,IT/IS,27,Monster.com
+"Shepard, Anita ",36,Female,Married,US Citizen,No,White,Active,IT/IS,47,Vendor Referral
+"Tredinnick, Neville ",29,Male,Married,US Citizen,No,White,Voluntarily Terminated,IT/IS,28,Monster.com
+"Turpin, Jumil",48,Male,Married,Eligible NonCitizen,No,White,Active,IT/IS,49.1,Employee Referral
+"Ait Sidi, Karthikeyan   ",42,Male,Married,US Citizen,No,White,Voluntarily Terminated,IT/IS,62,Company Intranet - Partner
+"Carr, Claudia  N",31,Female,Single,US Citizen,No,Black or African American,Future Start,IT/IS,61.3,Vendor Referral
+"Favis, Donald  ",53,Male,Single,US Citizen,No,Black or African American,Terminated for Cause,IT/IS,58.2,Vendor Referral
+"Roehrich, Bianca",44,Female,Single,US Citizen,Yes,White,Voluntarily Terminated,IT/IS,58.5,Vendor Referral
+"Daniele, Ann  ",66,Female,Married,US Citizen,No,White,Leave of Absence,IT/IS,54.1,Vendor Referral
+"Lajiri,  Jyoti",31,Male,Married,US Citizen,No,White,Leave of Absence,IT/IS,56.2,Employee Referral
+"Semizoglou, Jeremiah  ",34,Male,Married,US Citizen,No,Asian,Future Start,IT/IS,53.8,On-campus Recruiting
+"South, Joe",52,Male,Single,US Citizen,No,White,Active,IT/IS,53,Employee Referral
+"Warfield, Sarah",39,Female,widowed,US Citizen,No,Asian,Active,IT/IS,55.2,Employee Referral
+"Bramante, Elisa",34,Female,Single,US Citizen,No,Black or African American,Active,Production       ,60,Other
+"Albert, Michael  ",49,Male,Divorced,US Citizen,No,White,Active,Production       ,54.5,Employee Referral
+"Bozzi, Charles",47,Male,Single,US Citizen,No,Asian,Voluntarily Terminated,Production       ,50.5,Billboard
+"Butler, Webster  L",34,Male,Single,US Citizen,No,White,Active,Production       ,55,Pay Per Click - Google
+"Dunn, Amy  ",44,Female,Single,US Citizen,No,White,Active,Production       ,51,Search Engine - Google Bing Yahoo
+"Gray, Elijiah  ",36,Male,Divorced,US Citizen,No,White,Active,Production       ,54,Employee Referral
+"Hogland, Jonathan ",45,Male,Married,US Citizen,No,White,Terminated for Cause,Production       ,48.5,Employee Referral
+"Immediato, Walter",41,Male,Married,US Citizen,No,Asian,Voluntarily Terminated,Production       ,42,Other
+"Liebig, Ketsia",36,Female,Married,US Citizen,No,White,Active,Production       ,55,Website Banner Ads
+"Miller, Brannon",36,Male,Single,US Citizen,yes,Hispanic,Active,Production       ,53,Internet Search
+"Peterson, Ebonee  ",40,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,38.5,Internet Search
+"Spirea, Kelley",42,Female,Married,US Citizen,No,White,Active,Production       ,52,Vendor Referral
+"Stanley, David ",42,Male,Divorced,US Citizen,No,White,Active,Production       ,53,Monster.com
+"Sullivan, Kissy ",39,Female,Married,US Citizen,No,Black or African American,Active,Production       ,55,Billboard
+"Wallace, Courtney  E",62,Female,Married,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,33.5,Diversity Job Fair
+"Adinolfi, Wilson  K",34,Male,Single,US Citizen,No,White,Active,Production       ,20,MBTA ads
+"Alagbe,Trina",29,Female,Married,US Citizen,No,White,Active,Production       ,21,Billboard
+"Anderson, Carol ",28,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,16,Word of Mouth
+"Anderson, Linda  ",40,Female,Single,US Citizen,No,White,Active,Production       ,23,MBTA ads
+"Athwal, Sam",34,Male,widowed,US Citizen,No,White,Active,Production       ,22,Employee Referral
+"Bachiochi, Linda",47,Female,Single,US Citizen,No,Two or more races,Leave of Absence,Production       ,22,Diversity Job Fair
+"Baczenski, Rachael  ",44,Female,Married,US Citizen,Yes,Hispanic,Voluntarily Terminated,Production       ,17,Diversity Job Fair
+"Barbara, Thomas",43,Male,Married,US Citizen,Yes,Asian,Voluntarily Terminated,Production       ,22,Diversity Job Fair
+"Barone, Francesco  A",34,Male,Single,US Citizen,No,Two or more races,Active,Production       ,16.76,Social Networks - Facebook Twitter etc
+"Barton, Nader",40,Male,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,18,On-line Web application
+"Beatrice, Courtney ",47,Female,Single,Eligible NonCitizen,No,White,Active,Production       ,22,Search Engine - Google Bing Yahoo
+"Becker, Scott",38,Male,Single,US Citizen,No,Asian,Leave of Absence,Production       ,17,MBTA ads
+"Bernstein, Sean",47,Male,Single,US Citizen,Yes,White,Active,Production       ,16,Word of Mouth
+"Biden, Lowan  M",59,Female,Divorced,US Citizen,No,Asian,Active,Production       ,22,Billboard
+"Billis, Helen",28,Female,Married,US Citizen,No,White,Active,Production       ,16,Professional Society
+"Brill, Donna",27,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,20,Search Engine - Google Bing Yahoo
+"Bugali, Josephine ",48,Female,Separated,US Citizen,No,Black or African American,Leave of Absence,Production       ,20,Diversity Job Fair
+"Carey, Michael  ",34,Male,widowed,US Citizen,No,Black or African American,Active,Production       ,20,MBTA ads
+"Chace, Beatrice ",67,Female,Single,US Citizen,No,White,Active,Production       ,16,Search Engine - Google Bing Yahoo
+"Chan, Lin",38,Female,Single,US Citizen,No,White,Active,Production       ,19.5,Internet Search
+"Chang, Donovan  E",34,Male,Single,US Citizen,No,White,Active,Production       ,22,Newspager/Magazine
+"Chivukula, Enola",34,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,21,Other
+"Cierpiszewski, Caroline  ",29,Female,Single,Non-Citizen,No,Black or African American,Active,Production       ,22,Pay Per Click - Google
+"Clukey, Elijian",37,Male,Married,US Citizen,No,White,Future Start,Production       ,24.75,Employee Referral
+"Cockel, James",40,Male,Single,US Citizen,No,White,Active,Production       ,15,Employee Referral
+"Cole, Spencer",38,Male,Single,US Citizen,No,Black or African American,Terminated for Cause,Production       ,15,MBTA ads
+"Cornett, Lisa ",40,Female,Married,US Citizen,Yes,White,Active,Production       ,15.75,Billboard
+"Crimmings,   Jean",30,Female,Single,US Citizen,No,White,Future Start,Production       ,19.75,Newspager/Magazine
+"Darson, Jene'ya ",39,Female,Married,US Citizen,No,White,Active,Production       ,15,Billboard
+"DeGweck,  James",40,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,23.5,Billboard
+"Desimone, Carl ",50,Male,Married,US Citizen,No,White,Active,Production       ,20,Professional Society
+"Dickinson, Geoff ",35,Male,Single,US Citizen,No,White,Active,Production       ,21,Pay Per Click - Google
+"DiNocco, Lily ",39,Female,Married,US Citizen,No,Black or African American,Active,Production       ,22,Pay Per Click - Google
+"Dobrin, Denisa  S",31,Female,Single,US Citizen,Yes,White,Active,Production       ,16.75,Monster.com
+"Eaton, Marianne",26,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,17,Search Engine - Google Bing Yahoo
+"Engdahl, Jean",43,Male,Single,US Citizen,No,White,Active,Production       ,21.25,MBTA ads
+"England, Rex",39,Male,Married,US Citizen,No,White,Active,Production       ,21,Employee Referral
+"Estremera, Miguel",34,Male,Single,US Citizen,No,White,Terminated for Cause,Production       ,17,Word of Mouth
+"Evensen, April",28,Female,Single,US Citizen,No,White,Terminated for Cause,Production       ,18,Word of Mouth
+"Ferguson, Susan",62,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,20,Search Engine - Google Bing Yahoo
+"Fernandes, Nilson  ",28,Male,Married,US Citizen,No,White,Active,Production       ,18,Professional Society
+"Ferreira, Violeta",31,Female,Single,US Citizen,No,White,Active,Production       ,23,Newspager/Magazine
+"Fidelia,  Libby",36,Female,Married,US Citizen,No,White,Active,Production       ,24,Social Networks - Facebook Twitter etc
+"Garcia, Raul",32,Male,Single,US Citizen,Yes,White,Active,Production       ,19,Employee Referral
+"Garneau, Hamish",37,Male,Single,US Citizen,No,Asian,Active,Production       ,18,Professional Society
+"Gaul, Barbara",34,Female,widowed,US Citizen,Yes,Black or African American,Active,Production       ,24,MBTA ads
+"Gentry, Mildred",27,Female,Married,US Citizen,No,Black or African American,Active,Production       ,19,Professional Society
+"Gerke, Melisa",47,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,22,Diversity Job Fair
+"Gilles, Alex",43,Male,Married,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,15,Diversity Job Fair
+"Girifalco, Evelyn",37,Female,Single,US Citizen,Yes,Two or more races,Active,Production       ,16,Professional Society
+"Gold, Shenice  ",25,Female,Single,US Citizen,Yes,White,Active,Production       ,17,Glassdoor
+"Gonzalez, Cayo",48,Male,Divorced,US Citizen,No,American Indian or Alaska Native,Active,Production       ,16,Diversity Job Fair
+"Gordon, David",38,Male,Married,US Citizen,No,White,Active,Production       ,15,MBTA ads
+"Goyal, Roxana",43,Female,Married,US Citizen,No,Asian,Leave of Absence,Production       ,24,On-campus Recruiting
+"Gross, Paula",34,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,14,Monster.com
+"Handschiegl, Joanne",40,Female,Married,US Citizen,No,White,Active,Production       ,24,Word of Mouth
+"Harrell, Ludwick",35,Male,Married,US Citizen,No,Asian,Active,Production       ,21,Search Engine - Google Bing Yahoo
+"Harrington, Christie ",65,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,19.75,Monster.com
+"Harrison, Kara",43,Female,Married,US Citizen,No,White,Active,Production       ,20,Monster.com
+"Heitzman, Anthony",34,Male,Single,US Citizen,No,White,Active,Production       ,19,Social Networks - Facebook Twitter etc
+"Ivey, Rose ",27,Female,Single,US Citizen,No,White,Active,Production       ,16,Professional Society
+"Jackson, Maryellen",45,Female,Separated,US Citizen,No,White,Active,Production       ,20,Newspager/Magazine
+"Jacobi, Hannah  ",51,Female,Divorced,US Citizen,No,White,Active,Production       ,21,Employee Referral
+"Jhaveri, Sneha  ",53,Female,Separated,US Citizen,No,White,Active,Production       ,19,On-campus Recruiting
+"Johnson, George",58,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,17,Monster.com
+"Jung, Judy  ",31,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,21,Monster.com
+"Keatts, Kramer ",42,Male,Single,US Citizen,No,White,Active,Production       ,19,Billboard
+"Kinsella, Kathleen  ",44,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,22,Search Engine - Google Bing Yahoo
+"Kirill, Alexandra  ",47,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,24,Search Engine - Google Bing Yahoo
+"Knapp, Bradley  J",40,Male,Single,US Citizen,No,Black or African American,Active,Production       ,14,On-campus Recruiting
+"Kretschmer, John",37,Male,Married,US Citizen,No,Asian,Active,Production       ,21,Pay Per Click - Google
+"Langton, Enrico",31,Male,Married,US Citizen,No,White,Active,Production       ,17,Newspager/Magazine
+"Leach, Dallas",39,Female,Single,US Citizen,No,Asian,Voluntarily Terminated,Production       ,19,Monster.com
+"LeBel, Jonathan  R",36,Male,Single,US Citizen,No,White,Terminated for Cause,Production       ,15,Social Networks - Facebook Twitter etc
+"Linares, Marilyn ",36,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,15.25,Internet Search
+"Lydon, Allison",42,Female,Married,US Citizen,No,Black or African American,Leave of Absence,Production       ,20,Website Banner Ads
+"Lynch, Lindsay",44,Female,Single,US Citizen,Yes,Two or more races,Voluntarily Terminated,Production       ,19,Diversity Job Fair
+"MacLennan, Samuel",45,Male,widowed,US Citizen,No,White,Voluntarily Terminated,Production       ,15,Pay Per Click
+"Mahoney, Lauren  ",31,Female,Single,US Citizen,No,White,Active,Production       ,17,Newspager/Magazine
+"Mangal, Debbie",43,Female,Married,US Citizen,No,White,Active,Production       ,23,On-campus Recruiting
+"Maurice, Shana",40,Female,Married,US Citizen,No,White,Active,Production       ,20,Other
+"Mckenna, Sandy",31,Female,Married,US Citizen,No,Black or African American,Active,Production       ,24,Monster.com
+"Meads, Elizabeth",49,Female,Single,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,14,Diversity Job Fair
+"Medeiros, Jennifer",41,Female,Single,US Citizen,No,White,Active,Production       ,20,Monster.com
+"Motlagh,  Dawn",33,Female,Divorced,US Citizen,No,White,Active,Production       ,15,MBTA ads
+"Ndzi, Colombui",28,Male,Single,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,18,Diversity Job Fair
+"Ndzi, Horia",34,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,22,Employee Referral
+"Newman, Richard ",40,Male,Married,US Citizen,No,White,Leave of Absence,Production       ,21,On-campus Recruiting
+"Ngodup, Shari ",50,Female,Separated,US Citizen,No,Asian,Active,Production       ,15,Diversity Job Fair
+"Nguyen, Lei-Ming",33,Female,Single,US Citizen,No,White,Active,Production       ,19,Vendor Referral
+"O'hare, Lynn",37,Female,widowed,US Citizen,No,Two or more races,Terminated for Cause,Production       ,18.5,Professional Society
+"Osturnka, Adeel",41,Male,Married,US Citizen,No,White,Active,Production       ,16,On-campus Recruiting
+"Owad, Clinton",38,Male,Single,US Citizen,No,Black or African American,Active,Production       ,22,MBTA ads
+"Panjwani, Nina",38,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,18,Social Networks - Facebook Twitter etc
+"Pelech, Emil",29,Male,Single,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,24,Search Engine - Google Bing Yahoo
+"Perry, Shakira",31,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,22,MBTA ads
+"Peterson, Kayla ",44,Female,Married,US Citizen,No,White,Active,Production       ,17,Search Engine - Google Bing Yahoo
+"Pham, Hong",29,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,18,Search Engine - Google Bing Yahoo
+"Pitt, Brad ",36,Male,Single,US Citizen,No,Black or African American,Active,Production       ,17,Search Engine - Google Bing Yahoo
+"Power, Morissa",33,Female,Divorced,Eligible NonCitizen,No,Asian,Voluntarily Terminated,Production       ,19,Social Networks - Facebook Twitter etc
+"Punjabhi, Louis  ",56,Male,Single,US Citizen,No,White,Active,Production       ,16,Employee Referral
+"Purinton, Janine",47,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,16,Billboard
+"Rarrick, Quinn",33,Male,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,21,Pay Per Click - Google
+"Rhoads, Thomas",35,Male,Divorced,US Citizen,Yes,White,Voluntarily Terminated,Production       ,20,Professional Society
+"Rivera, Haley  ",45,Female,Married,US Citizen,No,Asian,Active,Production       ,22,Search Engine - Google Bing Yahoo
+"Robinson, Alain  ",44,Male,Married,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,24,Glassdoor
+"Robinson, Cherly",33,Female,Married,US Citizen,No,White,Terminated for Cause,Production       ,16,Glassdoor
+"Robinson, Elias",33,Male,widowed,US Citizen,No,White,Active,Production       ,17,Employee Referral
+"Rose, Ashley  ",43,Female,Separated,US Citizen,No,White,Active,Production       ,17,Website Banner Ads
+"Rossetti, Bruno",30,Male,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,18,Search Engine - Google Bing Yahoo
+"Saar-Beckles, Melinda",49,Female,Single,US Citizen,No,Black or African American,Future Start,Production       ,20,Diversity Job Fair
+"Sadki, Nore  ",43,Male,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,21,Word of Mouth
+"Sander, Kamrin",29,Female,Married,US Citizen,No,Black or African American,Active,Production       ,21,On-campus Recruiting
+"Sewkumar, Nori",42,Female,Single,US Citizen,No,Asian,Leave of Absence,Production       ,15.2,Search Engine - Google Bing Yahoo
+"Shields, Seffi",32,Female,Married,US Citizen,No,White,Active,Production       ,15,Newspager/Magazine
+"Smith, Sade",53,Female,Single,US Citizen,No,White,Active,Production       ,24.5,Employee Referral
+"Sparks, Taylor  ",49,Female,Married,US Citizen,No,White,Active,Production       ,16,Billboard
+"Squatrito, Kristen",44,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,21,MBTA ads
+"Stanford,Barbara  M",35,Female,Divorced,US Citizen,No,Two or more races,Active,Production       ,14,Word of Mouth
+"Stoica, Rick",32,Male,Married,US Citizen,No,Asian,Active,Production       ,22,On-campus Recruiting
+"Sullivan, Timothy",35,Male,Married,US Citizen,Yes,White,Active,Production       ,19,Word of Mouth
+"Sutwell, Barbara",49,Female,Single,Eligible NonCitizen,No,Asian,Active,Production       ,14,Glassdoor
+"Tavares, Desiree  ",42,Female,Married,Non-Citizen,No,Two or more races,Voluntarily Terminated,Production       ,15,Diversity Job Fair
+"Theamstern, Sophia",52,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,20,Billboard
+"Tinto, Theresa  ",34,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,20,Social Networks - Facebook Twitter etc
+"Tippett, Jeanette",50,Female,Divorced,US Citizen,No,Black or African American,Active,Production       ,24,Billboard
+"Trang, Mei",34,Female,Single,US Citizen,No,White,Active,Production       ,22,Professional Society
+"Veera, Abdellah ",30,Male,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,19,Information Session
+"Volk, Colleen",31,Female,Married,US Citizen,No,White,Terminated for Cause,Production       ,21,Social Networks - Facebook Twitter etc
+"Von Massenbach, Anna",32,Female,Single,US Citizen,No,White,Future Start,Production       ,20,Newspager/Magazine
+"Wallace, Theresa",37,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,15,Monster.com
+"Whittier, Scott",30,Male,Single,US Citizen,Yes,White,Voluntarily Terminated,Production       ,23,Newspager/Magazine
+"Wilber, Barry",52,Male,Married,Eligible NonCitizen,No,White,Voluntarily Terminated,Production       ,21,Website Banner Ads
+"Williams, Jacquelyn  ",48,Female,Single,US Citizen,Yes,Two or more races,Voluntarily Terminated,Production       ,16,Diversity Job Fair
+"Ybarra, Catherine ",35,Female,Single,US Citizen,No,Asian,Voluntarily Terminated,Production       ,22,Search Engine - Google Bing Yahoo
+"Zima, Colleen",39,Female,widowed,US Citizen,No,Asian,Active,Production       ,15,On-campus Recruiting
+"Akinkuolie, Sarah",29,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,29,Newspager/Magazine
+"Beak, Kimberly  ",51,Female,Married,US Citizen,No,White,Future Start,Production       ,27,Employee Referral
+"Blount, Dianna",27,Female,Single,US Citizen,No,White,Active,Production       ,27,Monster.com
+"Bondwell, Betsy",51,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,26,Search Engine - Google Bing Yahoo
+"Buccheri, Joseph  ",34,Male,Single,US Citizen,No,White,Active,Production       ,22,Word of Mouth
+"Burke, Joelle",37,Female,Single,US Citizen,No,Black or African American,Active,Production       ,25,Employee Referral
+"Burkett, Benjamin ",40,Male,Married,US Citizen,No,White,Active,Production       ,26,Careerbuilder
+"Cloninger, Jennifer",36,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,25,Word of Mouth
+"Close, Phil",39,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,26,Other
+"Davis, Daniel",38,Male,Single,Eligible NonCitizen,No,Two or more races,Active,Production       ,25,Newspager/Magazine
+"Demita, Carla",66,Female,Separated,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,29,Search Engine - Google Bing Yahoo
+"Erilus, Angela",28,Female,Separated,US Citizen,No,White,Active,Production       ,24,Pay Per Click - Google
+"Faller, Megan ",39,Female,Married,US Citizen,No,Black or African American,Active,Production       ,27,Professional Society
+"Fancett, Nicole",30,Female,Single,US Citizen,No,Black or African American,Active,Production       ,24,Newspager/Magazine
+"Fitzpatrick, Michael  J",36,Male,Single,US Citizen,Yes,White,Voluntarily Terminated,Production       ,29,Social Networks - Facebook Twitter etc
+"Foreman, Tanya",34,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,24,Word of Mouth
+"Gonzalez, Juan",53,Male,Married,US Citizen,No,Black or African American,Voluntarily Terminated,Production       ,29,Diversity Job Fair
+"Good, Susan",31,Female,Married,US Citizen,No,White,Leave of Absence,Production       ,24.25,Professional Society
+"Gosciminski, Phylicia  ",34,Female,Separated,US Citizen,No,American Indian or Alaska Native,Leave of Absence,Production       ,27,Word of Mouth
+"Hankard, Earnest",29,Male,Single,US Citizen,Yes,White,Active,Production       ,24,Newspager/Magazine
+"Hendrickson, Trina",45,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,24,Monster.com
+"Homberger, Adrienne  J",33,Female,Married,Non-Citizen,No,White,Voluntarily Terminated,Production       ,28,Glassdoor
+"Hunts, Julissa",33,Female,Single,US Citizen,No,White,Future Start,Production       ,25,Vendor Referral
+"Hutter, Rosalie",25,Female,Separated,US Citizen,No,White,Future Start,Production       ,28,Other
+"Huynh, Ming",41,Female,Divorced,US Citizen,No,White,Voluntarily Terminated,Production       ,23,Search Engine - Google Bing Yahoo
+"Jeannite, Tayana",31,Female,Divorced,US Citizen,No,American Indian or Alaska Native,Active,Production       ,22.5,MBTA ads
+"Johnston, Yen",48,Female,Single,US Citizen,No,White,Active,Production       ,25,Professional Society
+"Langford, Lindsey",38,Female,Divorced,US Citizen,No,Asian,Voluntarily Terminated,Production       ,22,Glassdoor
+"Latif, Mohammed",33,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,28,Word of Mouth
+"Linden, Mathew",38,Male,Married,US Citizen,No,White,Leave of Absence,Production       ,22,Information Session
+"Lundy, Susan",41,Female,widowed,US Citizen,No,White,Voluntarily Terminated,Production       ,24,On-campus Recruiting
+"Lunquist, Lisa",35,Female,Single,US Citizen,No,Black or African American,Active,Production       ,26.1,Glassdoor
+"Manchester, Robyn",41,Female,Married,US Citizen,No,White,Future Start,Production       ,23,Vendor Referral
+"Mancuso, Karen",31,Female,Married,US Citizen,No,Two or more races,Voluntarily Terminated,Production       ,23,Newspager/Magazine
+"McCarthy, Brigit",30,Female,Single,US Citizen,No,White,Active,Production       ,26,Newspager/Magazine
+"Miller, Ned",32,Male,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,25,MBTA ads
+"Monkfish, Erasumus  ",25,Male,Married,US Citizen,No,White,Active,Production       ,27,Professional Society
+"Monterro, Luisa",47,Female,Single,US Citizen,No,Black or African American,Active,Production       ,25,Billboard
+"Moran, Patrick",41,Male,Single,US Citizen,No,Hispanic,Leave of Absence,Production       ,26,Diversity Job Fair
+"Moumanil, Maliki ",43,Male,Separated,US Citizen,No,Black or African American,Active,Production       ,29,On-campus Recruiting
+"Nowlan, Kristie",32,Female,Single,US Citizen,No,White,Active,Production       ,26.39,Glassdoor
+"Oliver, Brooke ",65,Female,Married,US Citizen,No,Asian,Voluntarily Terminated,Production       ,25,Newspager/Magazine
+"Pelletier, Ermine",28,Female,Married,US Citizen,No,Asian,Voluntarily Terminated,Production       ,28,Monster.com
+"Peters, Lauren",31,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,29,Pay Per Click - Google
+"Petingill, Shana  ",38,Female,Married,Eligible NonCitizen,No,Asian,Active,Production       ,26,MBTA ads
+"Roberson, May",36,Female,Divorced,Eligible NonCitizen,No,White,Voluntarily Terminated,Production       ,26,Search Engine - Google Bing Yahoo
+"Robertson, Peter",45,Male,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,22,Glassdoor
+"Sahoo, Adil",31,Male,Married,US Citizen,No,White,Active,Production       ,29,Monster.com
+"Sloan, Constance",30,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,23,Monster.com
+"Smith, Joe",54,Male,Single,US Citizen,No,White,Active,Production       ,22,Pay Per Click - Google
+"Tejeda, Lenora ",64,Female,Married,US Citizen,No,White,Voluntarily Terminated,Production       ,28.75,Search Engine - Google Bing Yahoo
+"Thibaud, Kenneth",42,Male,widowed,US Citizen,No,White,Voluntarily Terminated,Production       ,23,Pay Per Click - Google
+"Trzeciak, Cybil",32,Female,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,22,Vendor Referral
+"Walker, Roger",41,Male,Single,US Citizen,No,Black or African American,Active,Production       ,22,Employee Referral
+"Winthrop, Jordan  ",59,male,Single,US Citizen,No,White,Voluntarily Terminated,Production       ,29,Professional Society
+"Wolk, Hang  T",32,Female,Single,US Citizen,No,White,Active,Production       ,22,Newspager/Magazine
+"Woodson, Jason",32,Male,Single,US Citizen,No,White,Active,Production       ,24.25,Vendor Referral
+"Buck, Edward",42,Male,Married,US Citizen,No,White,Active,Sales,55,Employee Referral
+"Bunbury, Jessica",53,Female,Married,Eligible NonCitizen,No,Black or African American,Voluntarily Terminated,Sales,55,Social Networks - Facebook Twitter etc
+"Carter, Michelle ",54,Female,Single,US Citizen,No,White,Active,Sales,55,Billboard
+"Costa, Latia",29,Female,Single,US Citizen,No,White,Active,Sales,55,Other
+"Dietrich, Jenna  ",30,Female,Single,US Citizen,Yes,White,Active,Sales,55,Website Banner Ads
+"Digitale, Alfred",29,Male,Married,US Citizen,No,American Indian or Alaska Native,Active,Sales,56,Pay Per Click - Google
+"Fraval, Maruk ",54,Male,Single,US Citizen,No,Black or African American,Active,Sales,55,Monster.com
+"Friedman, Gerry",48,Male,Single,US Citizen,Yes,Two or more races,Active,Sales,55.5,Diversity Job Fair
+"Gill, Whitney  ",46,Female,widowed,US Citizen,No,Black or African American,Terminated for Cause,Sales,55,Monster.com
+"Givens, Myriam",28,Female,Single,US Citizen,No,White,Active,Sales,55,Pay Per Click - Google
+"Gonzales, Ricardo",63,Male,Married,US Citizen,No,White,Active,Sales,55.5,Monster.com
+"Guilianno, Mike",48,Male,Single,US Citizen,No,Two or more races,Voluntarily Terminated,Sales,55,Newspager/Magazine
+Jeremy Prater,43,Male,Married,US Citizen,No,White,Active,Sales,56,Website Banner Ads
+"Khemmich, Bartholemew",38,Male,Single,US Citizen,No,White,Active,Sales,55,Pay Per Click - Google
+"Leruth, Giovanni",29,Male,Separated,US Citizen,No,Black or African American,Active,Sales,55,Website Banner Ads
+"Martins, Joseph",47,Male,Single,Eligible NonCitizen,No,Black or African American,Active,Sales,56,Employee Referral
+"McKinzie, Jac",33,Male,Married,US Citizen,No,Two or more races,Future Start,Sales,55,Website Banner Ads
+"Mullaney, Howard",42,Male,Single,US Citizen,No,Two or more races,Active,Sales,55,Internet Search
+"Nguyen, Dheepa",28,Female,Single,US Citizen,No,Two or more races,Active,Sales,55,Pay Per Click - Google
+"Onque, Jasmine",27,Female,Single,US Citizen,Yes,White,Active,Sales,57,Pay Per Click - Google
+"Ozark, Travis",35,Male,Single,US Citizen,No,White,Active,Sales,55,Website Banner Ads
+"Potts, Xana",29,Female,Married,US Citizen,No,Black or African American,Active,Sales,55,Website Banner Ads
+"Riordan, Michael",50,Male,Separated,US Citizen,No,White,Active,Sales,55,Billboard
+"Strong, Caitrin",28,Female,Married,US Citizen,No,Black or African American,Active,Sales,54,Professional Society
+"Terry, Sharlene ",52,Female,Single,US Citizen,No,Black or African American,Active,Sales,55,Monster.com
+"Valentin,Jackie",26,Female,Married,US Citizen,No,Two or more races,Active,Sales,55,Other
+"Villanueva, Noah",28,Male,Single,US Citizen,No,Asian,Active,Sales,56,Website Banner Ads
+"Houlihan, Debra",51,Female,Married,US Citizen,No,White,Active,Sales,60,MBTA ads
+"Daneault, Lynn",27,Female,Single,US Citizen,No,White,Active,Sales,54,Pay Per Click - Google
+"Kampew, Donysha    ",28,Female,Single,US Citizen,No,White,Voluntarily Terminated,Sales,60.25,Social Networks - Facebook Twitter etc
+"Smith, John",33,Male,Divorced,US Citizen,no,Black or African American,Active,Sales,56,Diversity Job Fair
+"Andreola, Colby",38,Female,Single,US Citizen,No,White,Active,Software Engineering,47.6,Vendor Referral
+"Carabbio, Judith",30,Female,Single,US Citizen,No,White,Active,Software Engineering,56,Pay Per Click - Google
+"Del Bosque, Keyla",38,Female,Single,US Citizen,No,Black or African American,Active,Software Engineering,57.12,Monster.com
+"Exantus, Susan",30,Female,Married,US Citizen,No,Black or African American,Terminated for Cause,Software Engineering,48.5,Billboard
+"Martin, Sandra",30,Female,Separated,US Citizen,No,Asian,Active,Software Engineering,55.51,Search Engine - Google Bing Yahoo
+"Patronick, Luke",38,Male,Single,US Citizen,No,Asian,Voluntarily Terminated,Software Engineering,52.25,Diversity Job Fair
+"Saada, Adell",31,Female,Married,US Citizen,No,White,Active,Software Engineering,49.25,Pay Per Click - Google
+"Szabo, Andrew",34,Male,Single,US Citizen,No,White,Active,Software Engineering,48,MBTA ads
+"True, Edward",34,Male,Single,Non-Citizen,No,Black or African American,Voluntarily Terminated,Software Engineering,45.42,Diversity Job Fair
+"Sweetwater, Alex",51,Male,Single,US Citizen,No,White,Active,Software Engineering     ,27,Search Engine - Google Bing Yahoo
