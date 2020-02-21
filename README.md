@@ -26,7 +26,7 @@ In the visualization you can see that many managers at Dental Magic have employe
 
 - Sex/Gender is another factor to consider when evaluating diversity. The graph below sums the pay of males vs females for gender equality measures.
 
-![](images/male_pat.png)
+![](images/male_pay.png)
 
 - Race is split into 6 categories within the oranization. This seems to be the least dispersed diversity measure. There are significantly more 'White' employees within the organization than non-White.
 
