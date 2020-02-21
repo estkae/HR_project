@@ -20,10 +20,17 @@ In the visualization you can see that many managers at Dental Magic have employe
 
 **3. What is the overall diversity profile of the organization?**
 
-- Age is a big indicator with diversity within an organization. Dental Magic has a age is distributed pretty evenly thoughout the organization.
+- Age is a big indicator with diversity within an organization. In this company, age is distributed pretty evenly throughout the organization.
 
 ![](images/age_dist.png)
 
+- Sex/Gender is another factor to consider when evaluating diversity. The graph below sums the pay of males vs females for gender equality measures.
+
+![](images/male_pat.png)
+
+- Race is split into 6 categories within the oranization. This seems to be the least dispersed diversity measure. There are significantly more 'White' employees within the organization than non-White.
+
+![](images/race.png)
 
 
 3. What are our best recruiting sources if we want to ensure a diverse organization?
