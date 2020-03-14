@@ -49,9 +49,15 @@ We fit a logistic regression model using Scikit-Learn.
 
 - We used ***SMOTE*** - Synthetic Minority Oversampling Technique which uses a nearest neighbors algorithm to generate new and synthetic data we can use for training our model.
 
+**Confusion Matrix:**
+
 ![](images/conf_matrix.png)
 
-Logistic Regression Evaluation:
+**Normalized Confusion Matrix:**
+
+![](images/conf_matrix_normalized.png)
+
+**Logistic Regression Evaluation:**
 - Training Precision:  0.79
 - Testing Precision:  0.63
 - Training Recall:  0.80
@@ -60,3 +66,12 @@ Logistic Regression Evaluation:
 - Testing Accuracy:  0.71
 - Training F1-Score:  0.80
 - Testing F1-Score:  0.68
+
+**ROC Curve for Test Set**
+- AUC: 80% (area under curve)
+  - .5 TPR means our model is worthless
+  - 1 TPR means its an ideal model
+
+![](images/ROC.png)
+
+**Evaluation:** When TPR = 75% then the FPR is 22%. The true positive rate determines the percentage of employees that are active who are who are correctly identified as a good fit. At the same time, this has a FPR of nearly .25 meaning that roughly one in four times we incorrectly warn an employee of being a good fit when they are actually not performing well.
