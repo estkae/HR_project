@@ -74,4 +74,4 @@ We fit a logistic regression model using Scikit-Learn.
 
 ![](images/ROC.png)
 
-**Evaluation:** When TPR = 75% then the FPR is 22%. The true positive rate determines the percentage of employees that are active who are who are correctly identified as a good fit. At the same time, this has a FPR of nearly .25 meaning that roughly one in four times we incorrectly warn an employee of being a good fit when they are actually not performing well.
+**Evaluation:** When TPR = 75% then the FPR is 22%. The true positive rate determines the percentage of employees that are active who are correctly identified as a good fit. At the same time, this has a FPR of nearly .25 meaning that roughly one in four times we incorrectly warn an employee of being a good fit when they are actually not performing well.
